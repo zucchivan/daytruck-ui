@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-    @apply bg-rose-100 text-blue-900;
+    @apply bg-stone-100 text-blue-900;
 }
